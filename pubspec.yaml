@@ -1,3 +1,4 @@
+
 name: last_exam
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
@@ -36,9 +37,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   firebase_core: ^3.8.0
-  firebase_auth: ^5.3.4
+  firebase_auth: ^5.3.3
   google_sign_in: ^6.2.2
-  cloud_firestore: ^5.6.0
+  golden_toolkit: ^0.15.0
 
 dev_dependencies:
   flutter_test:
@@ -63,8 +64,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/images/airpodsmaxsilver.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
