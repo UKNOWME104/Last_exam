@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538016124193",
+    "project_id": "lastexam-appdev",
+    "storage_bucket": "lastexam-appdev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538016124193:android:1adcf3b595b2cac794c260",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAGswE0MpBkZcZx0LPN0YeNqlS29F58g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538016124193:android:6607812d4cd0bb5594c260",
+        "android_client_info": {
+          "package_name": "com.example.last_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmAGswE0MpBkZcZx0LPN0YeNqlS29F58g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
