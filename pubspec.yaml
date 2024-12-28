@@ -39,6 +39,9 @@ dependencies:
   firebase_auth: ^5.3.4
   google_sign_in: ^6.2.2
   cloud_firestore: ^5.6.0
+  flutter_dash: ^1.0.0
+  golden_toolkit: ^0.15.0
+
 
 dev_dependencies:
   flutter_test:
